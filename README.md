@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**kkorniszuk/kkorniszuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer @ [Keyloop](https://www.keyloop.com/) — building PaaS infrastructure & cloud solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**C#** · .NET · DevOps · AWS · Cybersecurity · Communication Systems
+
+## 📄 Research
+
+[Autoencoder-Based Anomaly Detection in Network Traffic](https://www.researchgate.net/publication/385195637_Autoencoder-Based_Anomaly_Detection_in_Network_Traffic)
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/korniszuk) · [Email](mailto:korniszuk.krzysztof@gmail.com)
